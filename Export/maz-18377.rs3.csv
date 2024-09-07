@@ -1,0 +1,42 @@
+EDUs		Relationen	
+
+1⟶5		result vs reason-n		Die Kränzliner , Mankerer , Wustrauer , Walchower und Protzener fühlen sich ungerecht behandelt .	nur weil sie von einem Klärwerk an ein anderes umgeleitet werden ?
+
+6⟶8		result vs reason-n		Die übrigen Fehrbelliner Verbandgemeinden fühlen sich ebenso im Recht :	bloß weil einige Mitglieder der Solidargemeinschaft keinen Klärbeitrag zahlen möchten ?
+
+13⟵8		interpretation vs 		Wie der Streit ausgeht , entscheidet am Ende wohl ein Gericht .	bloß weil einige Mitglieder der Solidargemeinschaft keinen Klärbeitrag zahlen möchten ?
+		(no matching)
+
+16⟵12		 vs interpretation		warum fand am Mittwoch nicht ein einziger Kränzliner den Weg zur Verbandsversammlung ?	und die Regeln bestimmt , denen sich nun auch die zu fügen haben , die später dazugekommen sind .
+		(no matching)
+
+12⟵9		evidence vs e-elaboration		und die Regeln bestimmt , denen sich nun auch die zu fügen haben , die später dazugekommen sind .	In sich schlüssig sind beide Argumentationen .
+
+16⟵13		interpretation vs list		warum fand am Mittwoch nicht ein einziger Kränzliner den Weg zur Verbandsversammlung ?	Wie der Streit ausgeht , entscheidet am Ende wohl ein Gericht .
+		(partial CS)
+
+2⟷3		joint vs list		Sie sind schon seit Jahren an Klärwerke angeschlossen .	Die Klärwerke beziehungsweise die Druckleitungen wurden bereits von der Gemeinde und damit von den Steuern der Bürger bezahlt .
+
+12⟷13		joint vs evaluation-s		und die Regeln bestimmt , denen sich nun auch die zu fügen haben , die später dazugekommen sind .	Wie der Streit ausgeht , entscheidet am Ende wohl ein Gericht .
+		(partial CS)
+EDUs		Relationen	
+
+1⟶5		result vs reason-n		Die Kränzliner , Mankerer , Wustrauer , Walchower und Protzener fühlen sich ungerecht behandelt .	nur weil sie von einem Klärwerk an ein anderes umgeleitet werden ?
+
+6⟶8		result vs reason-n		Die übrigen Fehrbelliner Verbandgemeinden fühlen sich ebenso im Recht :	bloß weil einige Mitglieder der Solidargemeinschaft keinen Klärbeitrag zahlen möchten ?
+
+13⟵8		interpretation vs 		Wie der Streit ausgeht , entscheidet am Ende wohl ein Gericht .	bloß weil einige Mitglieder der Solidargemeinschaft keinen Klärbeitrag zahlen möchten ?
+		(no matching)
+
+16⟵12		 vs interpretation		warum fand am Mittwoch nicht ein einziger Kränzliner den Weg zur Verbandsversammlung ?	und die Regeln bestimmt , denen sich nun auch die zu fügen haben , die später dazugekommen sind .
+		(no matching)
+
+12⟵9		evidence vs e-elaboration		und die Regeln bestimmt , denen sich nun auch die zu fügen haben , die später dazugekommen sind .	In sich schlüssig sind beide Argumentationen .
+
+16⟵13		interpretation vs list		warum fand am Mittwoch nicht ein einziger Kränzliner den Weg zur Verbandsversammlung ?	Wie der Streit ausgeht , entscheidet am Ende wohl ein Gericht .
+		(partial CS)
+
+2⟷3		joint vs list		Sie sind schon seit Jahren an Klärwerke angeschlossen .	Die Klärwerke beziehungsweise die Druckleitungen wurden bereits von der Gemeinde und damit von den Steuern der Bürger bezahlt .
+
+12⟷13		joint vs evaluation-s		und die Regeln bestimmt , denen sich nun auch die zu fügen haben , die später dazugekommen sind .	Wie der Streit ausgeht , entscheidet am Ende wohl ein Gericht .
+		(partial CS)
